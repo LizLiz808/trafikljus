@@ -4,12 +4,12 @@ css: body {
 .box {
 }
 .redlight {
-  background-color: red;
+  background-color: #fe61c8;
   width: 100px;
   height: 100px;
   margin: 10px;
   border-width: 10px;
-  border-color: darkred;
+  border-color: #4983f1;
   border-style: solid;
   display: flex;
   justify-content: flex-end;
@@ -21,12 +21,12 @@ css: body {
   background-color: rgb(247, 138, 138);
 }
 .yellowlight {
-  background-color: yellow;
+  background-color: #feb4a9;
   width: 100px;
   height: 100px;
   margin: 10px;
   border-width: 10px;
-  border-color: rgb(128, 122, 27);
+  border-color: #ff4b38;
   border-style: solid;
   display: flex;
   justify-content: flex-end;
@@ -35,7 +35,7 @@ css: body {
 .yellowflash {
   width: 50%;
   height: 50%;
-  background-color: beige;
+  background-color: 681388;
 }
 .greenlight {
   background: green;
