@@ -3,7 +3,7 @@ css: body {
 }
 .box {
 }
-.redlight {
+.toplight {
   background-color: #fe61c8;
   width: 100px;
   height: 100px;
@@ -20,7 +20,7 @@ css: body {
   height: 50%;
   background-color: rgb(247, 138, 138);
 }
-.yellowlight {
+.middlelight {
   background-color: #feb4a9;
   width: 100px;
   height: 100px;
@@ -37,7 +37,7 @@ css: body {
   height: 50%;
   background-color: 681388;
 }
-.greenlight {
+.bottomlight {
   background: green;
   width: 100px;
   height: 100px;
